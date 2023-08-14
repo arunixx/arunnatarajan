@@ -18,55 +18,64 @@ Here are some ideas to get you started:
 
 I'm **[Arun Natarajan](https://www.linkedin.com/in/arunix/)** ; You can call me - **Arun**. .
 
-Having 15+ years of professional experience in IT with Masters education (MCA). 
+Having 15+ years of professional experience in IT with Bachelors Degree (B.E). 
 
-Working as Principal Consultant / Senior Manager - Cloud, Security & Data. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
+Working as Principal Consultant / Architect - Cloud, DevOps & Data. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
 
-UK Resident.
+UAE Resident.
 
-Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U.
+Having wide domain experience in Financial Services and Telecom industries
 
 
 ## 𝐓ECHNICAL SKILLS
 
-•	AWS, DevOps, CI/CD <br />
+•	DevOps, CI/CD <br />
 •	Power BI, Tableau
-•	Python, Terraform, PowerShell <br />
+•	Python, Terraform, ShellScripting <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
-•      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
+•       Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
+•	Virtualization: VMware, Hyper-V
+•	SCM: SVN, Github, GitLab,Bitbucket
+•	CI/CD: Jenkins, Jira
+•	Code Build: Maven, Ant
+•	Code Deployment: Jenkins
+•	Monitoring: Nagios, Kibana
+•	Programming: Shell Bash, Python Scripting, Oracle PL/SQL, REST  
+•	Database: RDBMS, Oracle 9,10g,11g, NoSQL, MongoDB, Postgres
+•	Application Server: Oracle Weblogic 8.1 & 10.x, IBM Websphere
+•	Operating System: Linux RHEL 5/6/7, Cent OS 5/6/7, Windows Servers
+•	Cloud: AWS, GCP
+•	IaaC: Terraform, Ansible, Puppet
+•	Orchestration:  Kubernetes, AKS, Openshift
+
 
 
 ## TECHNICAL CONTRIBUTION
 
-## AWS
+**Tech Blogs:
 
-- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐂𝐨𝐧𝐟𝐢𝐠?](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
-- [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
-- [AWS Cloud Services - AWS MGN (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
-- [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://blog.cloudnloud.com/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
-- [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://blog.cloudnloud.com/aws-cloud-services-pillars-of-aws-well-architected-framework)
-- [Security best practices of Amazon S3](https://blog.cloudnloud.com/security-best-practices-of-amazon-s3)
-- [Connect on-premises network securely to the AWS Cloud](https://blog.cloudnloud.com/connect-on-premises-network-securely-to-the-aws-cloud)
-- [AWS Control Tower Overview & Set up](https://blog.cloudnloud.com/aws-control-tower-overview-set-up)
-- [AWS Purpose-built databases Use Cases](https://blog.cloudnloud.com/aws-purpose-built-databases-use-cases)
-- [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
-- [Why should we use 𝐀𝐌𝐏 (𝐀𝐦𝐚𝐳𝐨𝐧 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐟𝐨𝐫 𝐏𝐫𝐨𝐦𝐞𝐭𝐡𝐞𝐮𝐬?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-core-services-amp-in-aws-activity-6953409256582750208-DDCn)
-- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐌𝐆𝐍 (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-services-mgn-activity-6958126395973632002-FaUo/)
+https://medium.com/cloudnloud/to-create-and-develop-any-type-of-software-tool-such-as-netflix-facebook-amazon-paypal-and-3b5c3979ce8a
+https://medium.com/cloudnloud/within-5-minutes-create-a-gke-google-kubernetes-engine-cluster-and-begin-practicing-kubernetes-2dc8d46da58b
+https://medium.com/@arunix/create-a-gcp-google-cloud-platform-services-account-in-5min-9559bb32de83
+https://medium.com/@arunix/kubernetes-workshop-54c67672585e
+https://medium.com/@arunix/monitor-node-and-pod-using-metricserver-9ddae80bfc9b
 
 
-## Terraform
+Tech Talk with AWS Leader:
+https://youtu.be/Ajh7ty0PtyI
 
-- [𝐖𝐡𝐲 𝐢𝐬 𝐭𝐡𝐞 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐬𝐭𝐚𝐭𝐞 𝐬𝐨 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐟𝐨𝐫 𝐦𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐢𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞?](https://www.linkedin.com/posts/sraddepalli_cloudnloud-terraform-cloud-activity-7037862917513355265-Il7N/)
+Tech Videos:
+https://youtu.be/PX50YlEFb0E  How to make professional YouTube video using free software
+https://youtu.be/HToxWaUbxbI  Difference between COPY and ADD commands in Docker file
+https://youtu.be/51Fcj2xlGa8  Difference between CMD and ENTRYPOINT in Docker file
+https://youtu.be/EVgoCAUypAg  AWS EC2 Automation Using Terraform - Infrastructure As A Code
+https://youtu.be/sRc_4a5V6kg  Difference between Vertical and Horizontal Scaling	
+https://youtu.be/tVkDife0GIY  Why do we need Kubernetes in IT Infrastructure?
 
 
 
-## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
-## ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
-
-<P>
-I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category. I have been contributing to the communities by participating in technical events, sharing the Technical Content, Technical blogs, LinkedIn Technical Posts and LinkedIn documents.
 
 </p>
 
