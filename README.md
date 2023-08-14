@@ -54,11 +54,11 @@ Having wide domain experience in Financial Services and Telecom industries
 ## TECHNICAL CONTRIBUTION
 
 **Tech Blogs:
-•	https://medium.com/cloudnloud/to-create-and-develop-any-type-of-software-tool-such-as-netflix-facebook-amazon-paypal-and-3b5c3979ce8a
-•	https://medium.com/cloudnloud/within-5-minutes-create-a-gke-google-kubernetes-engine-cluster-and-begin-practicing-kubernetes-2dc8d46da58b
-•	https://medium.com/@arunix/create-a-gcp-google-cloud-platform-services-account-in-5min-9559bb32de83
-•	https://medium.com/@arunix/kubernetes-workshop-54c67672585e
-•	https://medium.com/@arunix/monitor-node-and-pod-using-metricserver-9ddae80bfc9b
+• https://medium.com/cloudnloud/to-create-and-develop-any-type-of-software-tool-such-as-netflix-facebook-amazon-paypal-and-3b5c3979ce8a
+• https://medium.com/cloudnloud/within-5-minutes-create-a-gke-google-kubernetes-engine-cluster-and-begin-practicing-kubernetes-2dc8d46da58b
+• https://medium.com/@arunix/create-a-gcp-google-cloud-platform-services-account-in-5min-9559bb32de83
+• https://medium.com/@arunix/kubernetes-workshop-54c67672585e
+• https://medium.com/@arunix/monitor-node-and-pod-using-metricserver-9ddae80bfc9b
 
 
 
