@@ -35,30 +35,28 @@ Having wide domain experience in Financial Services and Telecom industries
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
 •       Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
-•	Virtualization: VMware, Hyper-V
-•	SCM: SVN, Github, GitLab,Bitbucket
-•	CI/CD: Jenkins, Jira
-•	Code Build: Maven, Ant
-•	Code Deployment: Jenkins
-•	Monitoring: Nagios, Kibana
-•	Programming: Shell Bash, Python Scripting, Oracle PL/SQL, REST  
-•	Database: RDBMS, Oracle 9,10g,11g, NoSQL, MongoDB, Postgres
-•	Application Server: Oracle Weblogic 8.1 & 10.x, IBM Websphere
-•	Operating System: Linux RHEL 5/6/7, Cent OS 5/6/7, Windows Servers
-•	Cloud: AWS, GCP
-•	IaaC: Terraform, Ansible, Puppet
-•	Orchestration:  Kubernetes, AKS, Openshift
-
-
+•	Virtualization: VMware, Hyper-V <br />
+•	SCM: SVN, Github, GitLab,Bitbucket <br />
+•	CI/CD: Jenkins, Jira <br />
+•	Code Build: Maven, Ant <br />
+•	Code Deployment: Jenkins <br />
+•	Monitoring: Nagios, Kibana <br />
+•	Programming: Shell Bash, Python Scripting, Oracle PL/SQL, REST  <br />
+•	Database: RDBMS, Oracle 9,10g,11g, NoSQL, MongoDB, Postgres <br />
+•	Application Server: Oracle Weblogic 8.1 & 10.x, IBM Websphere <br />
+•	Operating System: Linux RHEL 5/6/7, Cent OS 5/6/7, Windows Servers <br />
+•	Cloud: AWS, GCP <br />
+•	IaaC: Terraform, Ansible, Puppet <br />
+•	Orchestration:  Kubernetes, AKS, Openshift <br />
 
 ## TECHNICAL CONTRIBUTION
 
-**Tech Blogs:
-• https://medium.com/cloudnloud/to-create-and-develop-any-type-of-software-tool-such-as-netflix-facebook-amazon-paypal-and-3b5c3979ce8a <br />
-• https://medium.com/cloudnloud/within-5-minutes-create-a-gke-google-kubernetes-engine-cluster-and-begin-practicing-kubernetes-2dc8d46da58b <br />
-• https://medium.com/@arunix/create-a-gcp-google-cloud-platform-services-account-in-5min-9559bb32de83 <br />
-• https://medium.com/@arunix/kubernetes-workshop-54c67672585e <br />
-• https://medium.com/@arunix/monitor-node-and-pod-using-metricserver-9ddae80bfc9b <br />
+Tech Blogs:<br />
+•  https://medium.com/cloudnloud/to-create-and-develop-any-type-of-software-tool-such-as-netflix-facebook-amazon-paypal-and-3b5c3979ce8a <br />
+•  https://medium.com/cloudnloud/within-5-minutes-create-a-gke-google-kubernetes-engine-cluster-and-begin-practicing-kubernetes-2dc8d46da58b <br />
+•  https://medium.com/@arunix/create-a-gcp-google-cloud-platform-services-account-in-5min-9559bb32de83 <br />
+•  https://medium.com/@arunix/kubernetes-workshop-54c67672585e <br />
+•  https://medium.com/@arunix/monitor-node-and-pod-using-metricserver-9ddae80bfc9b <br />
 
 
 
