@@ -71,19 +71,14 @@ https://youtu.be/EVgoCAUypAg  AWS EC2 Automation Using Terraform - Infrastructur
 https://youtu.be/sRc_4a5V6kg  Difference between Vertical and Horizontal Scaling	
 https://youtu.be/tVkDife0GIY  Why do we need Kubernetes in IT Infrastructure?
 
-
-
-
-
 </p>
-
 
 ## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 / Leader
 
 <P>
 I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
 
-The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
+The CloudnLoud Tech Community is a non-profit open-source tech community, volunteer-run events presented by members of the CloudnLoud Community.
 
 The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
 
