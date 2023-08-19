@@ -88,7 +88,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 # Cloudnloud Community 2022 Free Programs
 
-- [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/
+- https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/
 
 # AWS Cloud Free 2 months Internship - Week 1
 
