@@ -189,7 +189,7 @@ To **understand** more about **my career roles and experience**, please refer be
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://https://medium.com/@arunix">
-  <img align="left" alt="hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
+  <img align="left" alt="hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <a href="https://twitter.com/arun_vmhss">
