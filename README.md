@@ -64,12 +64,12 @@ Tech Talk with AWS Leader:
 https://youtu.be/Ajh7ty0PtyI
 
 Tech Videos:
-https://youtu.be/PX50YlEFb0E  How to make professional YouTube video using free software
-https://youtu.be/HToxWaUbxbI  Difference between COPY and ADD commands in Docker file
-https://youtu.be/51Fcj2xlGa8  Difference between CMD and ENTRYPOINT in Docker file
-https://youtu.be/EVgoCAUypAg  AWS EC2 Automation Using Terraform - Infrastructure As A Code
-https://youtu.be/sRc_4a5V6kg  Difference between Vertical and Horizontal Scaling	
-https://youtu.be/tVkDife0GIY  Why do we need Kubernetes in IT Infrastructure?
+https://youtu.be/PX50YlEFb0E  How to make professional YouTube video using free software <br />
+https://youtu.be/HToxWaUbxbI  Difference between COPY and ADD commands in Docker file <br />
+https://youtu.be/51Fcj2xlGa8  Difference between CMD and ENTRYPOINT in Docker file <br />
+https://youtu.be/EVgoCAUypAg  AWS EC2 Automation Using Terraform - Infrastructure As A Code <br />
+https://youtu.be/sRc_4a5V6kg  Difference between Vertical and Horizontal Scaling <br />	
+https://youtu.be/tVkDife0GIY  Why do we need Kubernetes in IT Infrastructure? <br />
 
 </p>
 
