@@ -60,10 +60,10 @@ Tech Blogs:<br />
 
 
 
-Tech Talk with AWS Leader:
+Tech Talk with AWS Leader: <br />
 https://youtu.be/Ajh7ty0PtyI
 
-Tech Videos:
+Tech Videos:<br />
 https://youtu.be/PX50YlEFb0E  How to make professional YouTube video using free software <br />
 https://youtu.be/HToxWaUbxbI  Difference between COPY and ADD commands in Docker file <br />
 https://youtu.be/51Fcj2xlGa8  Difference between CMD and ENTRYPOINT in Docker file <br />
